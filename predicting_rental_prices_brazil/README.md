@@ -2,7 +2,7 @@
 
 This is a introductory analysis on predicting rental prices from a dataset containing data from Brazil.
 
-Our goals in this kernel are:
+Our goals in this analysis are:
 
 * Basic Exploratory Data Analysis.
 * Guide on brazilian_houses_to_rent Dataset available on Kaggle.
