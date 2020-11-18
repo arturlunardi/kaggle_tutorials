@@ -1,2 +1,2 @@
 # Kaggle Tutorials
-In this repository we will analyze some initial kaggle datasets.
+In this repository we will analyze some kaggle datasets.
